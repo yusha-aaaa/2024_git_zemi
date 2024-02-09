@@ -14,3 +14,9 @@ else:
 print('編集しました')
 
 #aaaaa
+
+print('ミスった')
+print('ミスった')
+print('ミスった')
+print('ミスった')
+print('ミスった')
